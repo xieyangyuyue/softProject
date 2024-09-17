@@ -9,7 +9,7 @@ public class PrimeNumbers {
                 count++;
                 if (count % 5 == 0) {
                     System.out.println();
-                    System.out.println("测试远程仓库2");
+                    System.out.println("测试远程仓库3");
                 }
             }
         }
