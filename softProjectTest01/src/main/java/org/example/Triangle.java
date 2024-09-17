@@ -17,7 +17,7 @@ public class Triangle {
       if (a == b || a == c || b == c) {
          return "等腰三角形";
       }
-      System.out.println("测试远程仓库");
+      System.out.println("测试远程仓库1");
       // 如果不是以上情况，则为一般三角形
       return "不等边三角形";
 
