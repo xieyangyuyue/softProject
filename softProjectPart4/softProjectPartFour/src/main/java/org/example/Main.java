@@ -1,9 +1,7 @@
-package org.example;
-
+// Main.java
 public class Main {
     public static void main(String[] args) {
-        TankController tankController = new TankController();
-        tankController.start();
-
+        HeatingSystem heatingSystem = new HeatingSystem();
+        heatingSystem.setState(new InitialState()); // 启动系统
     }
 }
