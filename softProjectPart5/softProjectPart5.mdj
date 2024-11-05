@@ -1048,7 +1048,7 @@
 							"left": 320,
 							"top": 280,
 							"width": 464,
-							"height": 936,
+							"height": 784,
 							"nameCompartment": {
 								"$ref": "AAAAAAGS93aoy3TpyT0="
 							}
@@ -3606,7 +3606,7 @@
 											"parentStyle": true,
 											"left": 325,
 											"top": 1111,
-											"width": 471,
+											"width": 447,
 											"height": 13,
 											"text": "系统管理员功能"
 										},
@@ -3640,7 +3640,7 @@
 									"parentStyle": true,
 									"left": 320,
 									"top": 1104,
-									"width": 481,
+									"width": 457,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGS93yyq3d2o/E="
@@ -3660,7 +3660,7 @@
 							"parentStyle": false,
 							"left": 320,
 							"top": 1104,
-							"width": 480,
+							"width": 456,
 							"height": 368,
 							"nameCompartment": {
 								"$ref": "AAAAAAGS93yyq3d1n+4="
