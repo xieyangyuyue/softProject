@@ -1,4 +1,4 @@
-package bird2;
+package bird1;
 
 // Penguin.java
 public class Penguin extends Bird {

@@ -1,11 +1,11 @@
-package bird2;
+package bird2.pojo;
+
+import bird2.fly.FlyBehavior;
+import bird2.swim.SwimBehavior;
 
 public abstract class Bird {
-    protected BirdBehavior behavior;
-
-    public Bird(BirdBehavior behavior) {
-        this.behavior = behavior;
-    }
+    protected FlyBehavior behavior;
+    protected SwimBehavior swimBehavior;
 
     public abstract void display();
 

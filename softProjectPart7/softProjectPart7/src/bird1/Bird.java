@@ -1,4 +1,4 @@
-package bird2;
+package bird1;
 
 public abstract class Bird {
     protected BirdBehavior behavior;
@@ -13,4 +13,6 @@ public abstract class Bird {
         behavior.fly();
     }
 
+    public void performSwim() {
+    }
 }

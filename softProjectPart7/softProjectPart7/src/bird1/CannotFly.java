@@ -1,4 +1,4 @@
-package bird2;
+package bird1;
 
 // CannotFly.java
 public class CannotFly implements BirdBehavior {

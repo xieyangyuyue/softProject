@@ -1,5 +1,5 @@
 package bird2.fly;
 
-public interface BirdBehavior {
+public interface FlyBehavior {
     void fly();
 }
